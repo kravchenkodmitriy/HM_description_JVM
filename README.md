@@ -27,7 +27,6 @@ flowchart TB
     C[.class 'байт-код']==> D[JVM]
     D[JVM]==> E[Операционная система]
 ```
-[![](https://mermaid.ink/img/pako:eNp9j01qwzAQha8iZuNNnAMYEmiabApdtXQjZTFIcuMi2UGWW0oINFl02xv0DC40kJb-XGF0o8jEWbYzi3m8-d7irUBWSkMGuake5AKdZ9cTUbI4Z3x4h_c4T9Mxm_BOSpZ0h8nKLgujXTI_kn99R6MxO-dDabCuWUJv1NJH2Kb0ST_0fgr_A3T5Kb-4uezRo-7cGadX-qVdeKI2PNM-8t9x2_DCwob2YRO2tKMvavskDMBqZ7FQseqq8wT4hbZaQBal0jk2xgsQ5TqizVKh1zNV-MpBlqOp9QCw8dXVYykh867RJ2ha4K1D21PrAwz5hfM)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNp9j01qwzAQha8iZuNNnAMYEmiabApdtXQjZTFIcuMi2UGWW0oINFl02xv0DC40kJb-XGF0o8jEWbYzi3m8-d7irUBWSkMGuake5AKdZ9cTUbI4Z3x4h_c4T9Mxm_BOSpZ0h8nKLgujXTI_kn99R6MxO-dDabCuWUJv1NJH2Kb0ST_0fgr_A3T5Kb-4uezRo-7cGadX-qVdeKI2PNM-8t9x2_DCwob2YRO2tKMvavskDMBqZ7FQseqq8wT4hbZaQBal0jk2xgsQ5TqizVKh1zNV-MpBlqOp9QCw8dXVYykh867RJ2ha4K1D21PrAwz5hfM)
 
 При запуске JVM происходит загрузка файлов Java в область памяти для 
 дальнейшего его использования. Подается сигнал в ClassLoader который получает строку 
